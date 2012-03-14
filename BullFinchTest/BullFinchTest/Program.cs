@@ -9,7 +9,7 @@ namespace BullFinchTest
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Commiting");
+            System.Console.WriteLine("Commiting push");
         }
     }
 }
